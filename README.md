@@ -1,3 +1,9 @@
+bueno, al principio de todo lo primero que hicimos es decidír como haríamos el modelo como tal, no fue algo sencillo de decidir, pero tampoco fue algo muy díficil.
+después de decidir cómo íbamos a hacer el vehículo, nos pusimos manos a la obra y empezamos a hacer 
+
+
+
+
 Engineering materials
 ====
 
